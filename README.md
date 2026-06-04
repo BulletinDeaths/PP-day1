@@ -1,5 +1,6 @@
 <div align="center">
 # почему?
+  
 # 🔐 Password Generator
 
 **Простой и гибкий консольный генератор безопасных паролей на Python**
