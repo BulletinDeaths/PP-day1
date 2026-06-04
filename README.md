@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 🔐 Password Generator
 
 **Простой и гибкий консольный генератор безопасных паролей на Python**
