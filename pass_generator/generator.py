@@ -60,7 +60,6 @@ class PasswordGenerator:
         elif selected_options_count == 1 and self.length <= 10:
             print("Предупреждение: Вы выбрали только один тип символов. Это снижает стойкость пароля.")
 
-        # Сборка пула символов
         self.char_pool = ''
         if self.use_lowercase:
             self.char_pool += string.ascii_lowercase
