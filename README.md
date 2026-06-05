@@ -4,10 +4,6 @@
 
 **Простой и гибкий консольный генератор безопасных паролей на Python**
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-orange?style=flat-square)
-
 </div>
 
 ---
